@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+setlist { 
+	text-align: center;
+    color: white; 
+    background-color : #B6A685; 
+    width: 100%; 
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	display: block;
+	padding: 60px;
+} 
+ heading {
+	 display: block;
+	 margin: auto;
+	 padding-bottom: 40px;
+	 padding-top: 30px;
+     font-size : 50px; 
+} 
+
+song{
+	display : block; 
+	width: 30%;
+	margin: auto;
+	margin-top: 50px;
+	padding: 40px;
+	align-items: center;
+	border: 1px solid white;
+}
+
+ title, artist, year, genre { 
+	 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+     display : block; 
+	 font-size: 20px;
+	 line-height: 1.6;
+} 
+
+ title { 
+     font-size : 30px; 
+     font-weight : bold; 
+} 

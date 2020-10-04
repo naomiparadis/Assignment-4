@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="setlist_style.css"?>
+
+<setlist>
+	<heading>Fun and Funky 2020 Playlist</heading>
+	<song>
+		<title>Sunflower(feat. Steve Lacy)</title>
+		<artist>Vampire Weekend</artist>
+		<year>2019</year>
+		<genre>Psychadelic Soul</genre>
+	</song>
+	
+	<song>
+		<title>Back Pocket</title>
+		<artist>Vulfpeck</artist>
+		<year>2015</year>
+		<genre>Funk</genre>
+	</song>
+	
+	<song>
+		<title>Heart of Glass</title>
+		<artist>Blondie</artist>
+		<year>1978</year>
+		<genre>Pop Rock</genre>
+	</song>
+	
+	<song>
+		<title>Ruler of Everything</title>
+		<artist>Tally Hall</artist>
+		<year>2005</year>
+		<genre>Alternative Rock</genre>
+	</song>
+	
+	<song>
+		<title>Slippery People</title>
+		<artist>Talking Heads</artist>
+		<year>1982</year>
+		<genre>New Wave</genre>
+	</song>
+	
+	<song>
+		<title>So Lonely</title>
+		<artist>The Police</artist>
+		<year>1978</year>
+		<genre>New Wave</genre>
+	</song>
+	
+	<song>
+		<title>From Eden</title>
+		<artist>Hozier</artist>
+		<year>2019</year>
+		<genre>Soul</genre>
+	</song>
+	
+	<song>
+		<title>Nothing Is Easy</title>
+		<artist>Jethro Tull</artist>
+		<year>1969</year>
+		<genre>Progressive Rock</genre>
+	</song>
+	
+		<song>
+		<title>Hang Me Up To Dry</title>
+		<artist>Cold War Kids</artist>
+		<year>2006</year>
+		<genre>Indie Rock</genre>
+	</song>
+	
+		<song>
+		<title>Kisser</title>
+		<artist>Step Rockets</artist>
+		<year>2013</year>
+		<genre>Indie Rock</genre>
+	</song>
+</setlist>
